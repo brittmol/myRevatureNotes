@@ -3,3 +3,11 @@ terminal:
         javac QuickStart.java // name of file
     running file:
         java QuickStart
+
+
+git stuff:
+
+    new project:
+        - git init
+        - git add .
+        - git commit -m "message"
