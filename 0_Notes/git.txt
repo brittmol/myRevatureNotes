@@ -17,6 +17,7 @@ git stuff:
 
     commits:
         - git add .
+            *** or git add file_name
         - git commit -m "message"
         - git push
 
