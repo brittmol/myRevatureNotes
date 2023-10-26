@@ -1,0 +1,5 @@
+terminal:
+    create class:
+        javac QuickStart.java // name of file
+    running file:
+        java QuickStart
