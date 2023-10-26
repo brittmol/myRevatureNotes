@@ -14,3 +14,11 @@ git stuff:
 
     pull other edits from repo
         - git pull
+
+    commits:
+        - git add .
+        - git commit -m "message"
+        - git push
+
+    logs:
+        - git log
