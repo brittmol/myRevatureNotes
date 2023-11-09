@@ -1,0 +1,11 @@
+
+Create a new proeject:
+    ctrl+shift+p
+    type maven
+    select Create Maven project
+    archetype-quickstart
+    version 1.4
+    group id: com.revature (group id is usually company u work for)
+    artifact id: name of project
+    located in:
+    

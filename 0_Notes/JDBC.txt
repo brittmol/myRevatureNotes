@@ -1,0 +1,11 @@
+new project
+in terminal:
+    mvn validate    -   validate project is correctly assembled
+    mvn compile     -   compile source code of project
+    mvn test        -   test compiled source code using testing framework
+    mvn package     -   take compiled code and package it in its distributable format, such as JAR
+    mvn verify      -   run any checks on results of integration tests to ensure quality criteria are met
+    mvn install     -   install the package into the local repository,
+                        for use as a dependency in other project locally
+    mvn deploy      -   done in the build environment;
+                        copies the final package to the remote repo for sharing
