@@ -1,10 +1,10 @@
 git stuff:
 
     new project:
+        - create new repo on github
         - git init
         - git add .
         - git commit -m "message"
-        - create new repo on github
         - git branch -M main
         - git remote add origin https://github.com/.....
         - git push -u origin main
